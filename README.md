@@ -19,10 +19,10 @@
   <p align="center">
     <br />
     <br />
-    <video width="320" height="240" controls>
-    <source src="screenRecording.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <div>Docker HUb Image Url: <b>manojkumar9953873435/dockerkube</b></div>    
+    <div>Web Service API Url: <b><a href="http://34.95.82.102/"></a></b></div>    
+    <div>Video Recording File: <b>screenRecording.mp4</b></div>
+
   </p>
 </div>
 
