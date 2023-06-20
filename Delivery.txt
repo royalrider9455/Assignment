@@ -1,0 +1,5 @@
+
+Code Repo https://github.com/royalrider9455/dockerKube
+Docker HUb Image Url: manojkumar9953873435/dockerkube 
+Web Service API Url: http://34.95.82.102/
+Video Recording File: screenRecording.mp4, Added in the repository itself
