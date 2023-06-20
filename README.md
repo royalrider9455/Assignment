@@ -20,8 +20,8 @@
     <br />
     <br />
     <div>Docker HUb Image Url: <b>manojkumar9953873435/dockerkube</b></div>    
-    <div>Web Service API Url: <b><a href="http://34.95.82.102/"></a></b></div>    
-    <div>Video Recording File: <b>screenRecording.mp4</b></div>
+    <div>Web Service API Url: <b>http://34.95.82.102/</b></div>    
+    <div>Video Recording File: <b>screenRecording.mp4</b> || Added in the repository itself</div>
 
   </p>
 </div>
